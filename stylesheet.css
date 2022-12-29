@@ -142,18 +142,3 @@ button#equal{
     }
    
   }
-@media screen and (max-width: 513px) {
-    .calculator {
-        margin: 25px 25px 0 10px;
-        border-radius: 5px; 
-        padding: 25px 25px; 
-        margin: 25px 50px 50px 35px ;
-    }
-   }
-@media screen and (max-width: 513px){
-    #display{
-        margin: 0 50px;
-    
-       
-    }
-}
